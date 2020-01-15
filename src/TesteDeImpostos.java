@@ -3,6 +3,7 @@ public class TesteDeImpostos {
        Imposto iss = new ISS();
        Imposto icms = new ICMS();
        Imposto iccc = new ICCC();
+       Imposto icpp = new ICPP();
 
        Orcamento orcamento = new Orcamento(500.0);
 
